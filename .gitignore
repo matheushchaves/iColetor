@@ -356,3 +356,4 @@ MigrationBackup/
 ios/build/
 ios/build/iColetor/Build/Intermediates.noindex/XCBuildData/BuildDescriptionCacheIndex-47ab170714ea4dd6419901791e39c07c
 ios/build/iColetor/info.plist
+.DS_Store
