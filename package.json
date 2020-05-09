@@ -17,6 +17,7 @@
     "react-native-gesture-handler": "1.5.3",
     "react-navigation": "4.0.10",
     "reactotron-react-native": "4.0.2",
+    "realm": "^5.0.4",
     "styled-components": "4.4.1"
   },
   "devDependencies": {

@@ -24,6 +24,11 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>GCDWebServer.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>Pods-iColetor-tvOS.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -140,6 +145,11 @@
 			<false/>
 		</dict>
 		<key>ReactCommon.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>RealmJS.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>

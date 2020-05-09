@@ -4,6 +4,8 @@ import {
   Text, Image, StyleSheet, Dimensions, ImageBackground, StatusBar,
 } from 'react-native';
 
+import {createProduto, getProdutos} from '~/services/realm/produtos';
+
 const styles = StyleSheet.create({
   container: {
     alignItems: 'center',
